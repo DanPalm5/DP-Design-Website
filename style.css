@@ -1,0 +1,19 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/images/professional headshot.png");
+  -webkit-filter: grayscale(80%);
+  -moz-filter: grayscale(80%);
+  -ms-filter: grayscale(80%);
+  filter: grayscale(80%);
+  min-height: 100%;
+}
+
+
+.logo {
+    border: 1px solid #555555;
+    border-radius: 50%;
+}
